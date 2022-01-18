@@ -252,6 +252,7 @@ itay-guter
 sylucck
 - Nikita
 - [Eugene]
+- [Vishal Pandey](https://github.com/bevishal)
 - Tito Ruiz
 - Aakansh
 - [Akanksha](https://github.com/aka9ksha)
